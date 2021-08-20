@@ -23,6 +23,8 @@ Additional folders:
   - coding_table_final.txt: contains explanations of the metadata variables (used in script_covid_betadiv.R)
 * R/: additional R functions, called by the different scripts
 
+Hardware used: 8 cores with 16GB RAM
+
 R packages required:
 
 * dada2
